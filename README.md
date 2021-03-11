@@ -1,3 +1,7 @@
+This tracker aims to show the numbers & trends of people affected, recovered and deceased due to COVID-19
+
+Checkout here: https://covid-19-tracker-58804.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
